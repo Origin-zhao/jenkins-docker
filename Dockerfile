@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/sartner/java8-alpine
+FROM registry.cn-hangzhou.aliyuncs.com/sartner/java8-alpine:1.8_121_b13
 
 #FROM jenkins:alpine
 #设置启动端口
